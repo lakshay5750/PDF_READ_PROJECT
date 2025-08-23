@@ -1,0 +1,7 @@
+faiss-cpu
+pdfplumber
+requests
+streamlit
+numpy
+pandas
+dotenv
